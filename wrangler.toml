@@ -1,0 +1,9 @@
+name = "ctg-secure-rfq-link"
+main = "src/index.ts"
+compatibility_date = "2026-09-17"
+
+[vars]
+TALLY_FORM_URL = "https://tally.so/r/gDEbjN"
+AIRTABLE_TABLE_NAME = "RFQ Suppliers"
+AIRTABLE_RFQ_TABLE_NAME = "RFQs"
+AIRTABLE_TIMEOUT_MS = "8000"
